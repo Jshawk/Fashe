@@ -223,6 +223,13 @@
               "feature_service_description": "Simply return it within 30 days for an exchange."
             }
           },
+          "box_jfj6Q4": {
+            "type": "box",
+            "settings": {
+              "feature_service_title": "",
+              "feature_service_description": ""
+            }
+          },
           "1504782065705": {
             "type": "box",
             "settings": {
@@ -234,6 +241,7 @@
         "block_order": [
           "1504781997946-0",
           "1504781997946-1",
+          "box_jfj6Q4",
           "1504782065705"
         ],
         "settings": {
