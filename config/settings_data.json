@@ -216,7 +216,7 @@
         ],
         "settings": {
           "autoplay": true,
-          "autoplay_speed": "10000",
+          "autoplay_speed": "6000",
           "layout_slider": "slider-1"
         }
       },
