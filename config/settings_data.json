@@ -174,7 +174,7 @@
           "footer_menu_1": "main-menu",
           "footer_menu_2": "footer",
           "footer_menu_3": "",
-          "footer_newsletter_enable": true,
+          "footer_newsletter_enable": false,
           "mailing_list_form_action": "",
           "heading": "Subscribe",
           "footer_content_text": "Copyright GenesisIce All rights reserved"
