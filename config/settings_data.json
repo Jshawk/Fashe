@@ -195,10 +195,24 @@
               "slide_link": "shopify:\/\/collections\/all",
               "slide_appear": "rotateIn"
             }
+          },
+          "image_nazHEy": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/IMG_0063.jpg",
+              "heading": "",
+              "heading_appear": "fadeInDown",
+              "subheading": "",
+              "subheading_appear": "fadeInDown",
+              "slide_link_text": "",
+              "slide_link": "",
+              "slide_appear": "fadeInDown"
+            }
           }
         },
         "block_order": [
-          "1507555687103"
+          "1507555687103",
+          "image_nazHEy"
         ],
         "settings": {
           "autoplay": true,
