@@ -187,8 +187,8 @@
             "type": "image",
             "settings": {
               "image": "shopify:\/\/shop_images\/S1558b58b6d8d49a185961ab84b9de76bQ.webp",
-              "heading": "Women Collection 2018",
-              "heading_appear": "rotateInDownLeft",
+              "heading": "",
+              "heading_appear": "none",
               "subheading": "New arrivals",
               "subheading_appear": "rotateInUpRight",
               "slide_link_text": "Shop Now",
