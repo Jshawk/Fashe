@@ -155,7 +155,7 @@
           "use_top_bar": true,
           "top_bar_message": "Free shipping for standard order over $100",
           "show_email": true,
-          "show_social_links": true,
+          "show_social_links": false,
           "header_email_text": "For Help Email GenesisIceHelp@gmail.com",
           "logo_use_image": true,
           "header_menu_1": "main-menu"
