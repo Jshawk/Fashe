@@ -158,6 +158,7 @@
           "show_social_links": false,
           "header_email_text": "For Help Email GenesisIceHelp@gmail.com",
           "logo_use_image": true,
+          "logo": "shopify:\/\/shop_images\/IMG_2029.jpg",
           "header_menu_1": "main-menu"
         }
       },
